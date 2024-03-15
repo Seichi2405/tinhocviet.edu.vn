@@ -1,0 +1,21 @@
+.avatar-container {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.subtitle {
+    color: #777;
+}
+
+h2 {
+    color: #333;
+}
